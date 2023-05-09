@@ -9,7 +9,9 @@
   <body>
 
     <?php
-        echo "Belajar PHP - Project";
+        $string = "Belajar menggunakan versi abjad/huruf (String)";
+        $number = 10000;
+        echo $string, $number;
     ?>
 
   </body>

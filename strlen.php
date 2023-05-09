@@ -9,7 +9,8 @@
   <body>
 
     <?php
-        echo "Belajar PHP - Project";
+        $strlen = "Belajar PHP menggunakan strlen()";
+        echo "Jumlah karakter: " . strlen($strlen);
     ?>
 
   </body>
